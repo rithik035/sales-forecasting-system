@@ -1,0 +1,15 @@
+pandas
+numpy
+openpyxl
+scikit-learn
+statsmodels
+pmdarima
+prophet
+xgboost
+torch
+fastapi
+uvicorn
+matplotlib
+seaborn
+joblib
+python-dotenv

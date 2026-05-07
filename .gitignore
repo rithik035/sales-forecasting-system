@@ -1,0 +1,30 @@
+# Virtual Environment
+
+venv/
+.env/
+
+# Python Cache
+
+**pycache**/
+*.pyc
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Dataset Folder
+
+data/
+
+# Model Outputs
+
+output/models/
+
+# VS Code Settings
+
+.vscode/
+
+# System Files
+
+.DS_Store
+Thumbs.db
